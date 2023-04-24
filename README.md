@@ -1,1 +1,1 @@
-# lab6_java
+Implement a to-do list using an ArrayList to store the tasks. Each task should be represented by an object of a custom Task class, which should have properties such as description, priority, and status. The to-do list should allow the user to add, remove, and update tasks, as well as sort the tasks by priority or status.
