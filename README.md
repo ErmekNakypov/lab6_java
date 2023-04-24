@@ -1,1 +1,1 @@
-# lab6_java
+Implement a shopping cart using an ArrayList to store the items in the cart. Each item should be represented by an object of a custom Item class, which should have properties such as name, price, and quantity. The shopping cart should allow the user to add, remove, and update items in the cart, as well as calculate the total price of the items in the cart.
